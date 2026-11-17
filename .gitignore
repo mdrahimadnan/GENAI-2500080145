@@ -1,0 +1,22 @@
+# Environment variables
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+darkweb/
+ENV/
+env/
+
+# Editor / IDE configs
+.vscode/
+.idea/
+
+# Other
+project.txt
